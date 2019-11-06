@@ -1,0 +1,14 @@
+name: 'intermix'
+version: '1.0.0'
+
+source-paths: ["models"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+    - "target"
+    - "dbt_modules"
+
+
+# This package is compatible with dbt version 015.0 or later
+require-dbt-version: ">=0.15.0"
