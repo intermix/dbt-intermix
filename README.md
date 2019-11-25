@@ -1,7 +1,7 @@
 This [dbt](https://github.com/fishtown-analytics/dbt) package contains macros that are useful for [Intermix](https://intermix.io/) users.
 
 ## Installation Instructions
-Check [dbt Hub](https://hub.getdbt.com/intermix/intermix/latest/) for the latest installation instructions, or [read the docs](https://docs.getdbt.com/docs/package-management) for more information on installing packages.
+Check [dbt Hub](https://hub.getdbt.com/intermix/dbt-intermix/latest/) for the latest installation instructions, or [read the docs](https://docs.getdbt.com/docs/package-management) for more information on installing packages.
 
 ----
 
